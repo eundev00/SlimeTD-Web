@@ -22,6 +22,7 @@
     <type fullname="SkillCatalog" preserve="all" />
     <type fullname="SkillSlotGroup" preserve="all" />
     <type fullname="SkillSlotItem" preserve="all" />
+    <type fullname="SkillTooltip" preserve="all" />
     <type fullname="SlimeAnimation" preserve="all" />
     <type fullname="SlimeData" preserve="all" />
     <type fullname="SlimeDepthBucketSettings" preserve="all" />
@@ -110,6 +111,7 @@
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
     <type fullname="UnityEngine.UI.Shadow" preserve="all" />
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
