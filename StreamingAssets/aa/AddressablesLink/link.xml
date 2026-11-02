@@ -23,6 +23,7 @@
     <type fullname="SkillSlotGroup" preserve="all" />
     <type fullname="SkillSlotItem" preserve="all" />
     <type fullname="SkillTooltip" preserve="all" />
+    <type fullname="SkillTooltipStageView" preserve="all" />
     <type fullname="SlimeAnimation" preserve="all" />
     <type fullname="SlimeData" preserve="all" />
     <type fullname="SlimeDepthBucketSettings" preserve="all" />
