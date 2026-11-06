@@ -1,6 +1,5 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AttackEffect" preserve="all" />
     <type fullname="BaseSlime" preserve="all" />
     <type fullname="BaseTower" preserve="all" />
     <type fullname="BattleView" preserve="all" />
@@ -13,6 +12,7 @@
     <type fullname="GradeStyle" preserve="all" />
     <type fullname="GridMapData" preserve="all" />
     <type fullname="HunterCard" preserve="all" />
+    <type fullname="HunterCardGachaConfig" preserve="all" />
     <type fullname="HunterCardView" preserve="all" />
     <type fullname="HunterDetailPopup" preserve="all" />
     <type fullname="LobbyHeader" preserve="all" />
@@ -33,9 +33,12 @@
     <type fullname="TowerCatalog" preserve="all" />
     <type fullname="TowerData" preserve="all" />
     <type fullname="TowerRangeIndicator" preserve="all" />
+    <type fullname="TowerVfxAnchors" preserve="all" />
     <type fullname="WaveScrollView" preserve="all" />
     <type fullname="WaveTableData" preserve="all" />
     <type fullname="GradeStyle/GradeColors" preserve="nothing" serialized="true" />
+    <type fullname="HunterCardGachaGradeWeight" preserve="nothing" serialized="true" />
+    <type fullname="HunterCardGachaPack" preserve="nothing" serialized="true" />
     <type fullname="LevelUpCostRule" preserve="nothing" serialized="true" />
     <type fullname="LobbyTabs/Tab" preserve="nothing" serialized="true" />
     <type fullname="SkillEffectEntry" preserve="nothing" serialized="true" />
