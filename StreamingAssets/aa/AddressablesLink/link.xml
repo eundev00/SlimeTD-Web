@@ -13,6 +13,10 @@
     <type fullname="GridMapData" preserve="all" />
     <type fullname="HunterCard" preserve="all" />
     <type fullname="HunterCardGachaConfig" preserve="all" />
+    <type fullname="HunterCardGachaPackView" preserve="all" />
+    <type fullname="HunterCardGachaPopup" preserve="all" />
+    <type fullname="HunterCardRevealCardView" preserve="all" />
+    <type fullname="HunterCardRevealPopup" preserve="all" />
     <type fullname="HunterCardView" preserve="all" />
     <type fullname="HunterDetailPopup" preserve="all" />
     <type fullname="LobbyHeader" preserve="all" />
