@@ -23,6 +23,7 @@
     <type fullname="LobbyTabs" preserve="all" />
     <type fullname="Projectile" preserve="all" />
     <type fullname="ProjectileLauncher" preserve="all" />
+    <type fullname="ServerConfig" preserve="all" />
     <type fullname="SkillCatalog" preserve="all" />
     <type fullname="SkillSlotGroup" preserve="all" />
     <type fullname="SkillSlotItem" preserve="all" />
