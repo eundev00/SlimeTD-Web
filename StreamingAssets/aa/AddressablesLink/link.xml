@@ -32,6 +32,7 @@
     <type fullname="SlimeData" preserve="all" />
     <type fullname="SlimeDepthBucketSettings" preserve="all" />
     <type fullname="SortButton" preserve="all" />
+    <type fullname="StageData" preserve="all" />
     <type fullname="TowerAnimationEventListener" preserve="all" />
     <type fullname="TowerAnimator" preserve="all" />
     <type fullname="TowerCatalog" preserve="all" />
@@ -39,15 +40,15 @@
     <type fullname="TowerRangeIndicator" preserve="all" />
     <type fullname="TowerVfxAnchors" preserve="all" />
     <type fullname="WaveScrollView" preserve="all" />
-    <type fullname="WaveTableData" preserve="all" />
     <type fullname="GradeStyle/GradeColors" preserve="nothing" serialized="true" />
     <type fullname="HunterCardGachaGradeWeight" preserve="nothing" serialized="true" />
     <type fullname="HunterCardGachaPack" preserve="nothing" serialized="true" />
     <type fullname="LevelUpCostRule" preserve="nothing" serialized="true" />
     <type fullname="LobbyTabs/Tab" preserve="nothing" serialized="true" />
     <type fullname="SkillEffectEntry" preserve="nothing" serialized="true" />
+    <type fullname="StageWave" preserve="nothing" serialized="true" />
+    <type fullname="StageWaveGroup" preserve="nothing" serialized="true" />
     <type fullname="TowerSkillData" preserve="nothing" serialized="true" />
-    <type fullname="WaveZone" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -95,7 +96,6 @@
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
-    <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
     <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
