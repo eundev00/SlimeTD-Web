@@ -7,10 +7,12 @@
     <type fullname="CurrencyView" preserve="all" />
     <type fullname="DamageTextView" preserve="all" />
     <type fullname="GameConfig" preserve="all" />
+    <type fullname="GameMap" preserve="all" />
     <type fullname="GameResultPopup" preserve="all" />
     <type fullname="GradeBadge" preserve="all" />
     <type fullname="GradeStyle" preserve="all" />
     <type fullname="GridMapData" preserve="all" />
+    <type fullname="GridMapReference" preserve="all" />
     <type fullname="HunterCard" preserve="all" />
     <type fullname="HunterCardGachaConfig" preserve="all" />
     <type fullname="HunterCardGachaPackView" preserve="all" />
@@ -21,9 +23,10 @@
     <type fullname="HunterDetailPopup" preserve="all" />
     <type fullname="LobbyHeader" preserve="all" />
     <type fullname="LobbyTabs" preserve="all" />
+    <type fullname="MapPath" preserve="all" />
+    <type fullname="MapZone" preserve="all" />
     <type fullname="Projectile" preserve="all" />
     <type fullname="ProjectileLauncher" preserve="all" />
-    <type fullname="ServerConfig" preserve="all" />
     <type fullname="SkillCatalog" preserve="all" />
     <type fullname="SkillSlotGroup" preserve="all" />
     <type fullname="SkillSlotItem" preserve="all" />
@@ -63,6 +66,12 @@
   </assembly>
   <assembly fullname="Unity.Splines, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Splines.SplineAnimate" preserve="all" />
+    <type fullname="UnityEngine.Splines.SplineContainer" preserve="all" />
+    <type fullname="UnityEngine.Splines.BezierKnot" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.KnotLinkCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.Spline" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.Spline/MetaData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Splines.SplineDataDictionary`1" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
@@ -137,6 +146,11 @@
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.CanvasGroup" preserve="all" />
     <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Mathematics">
+    <type fullname="Unity.Mathematics.float3" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Mathematics.float4" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Mathematics.quaternion" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.TextCoreFontEngineModule">
     <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
