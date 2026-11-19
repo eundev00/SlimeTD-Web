@@ -21,14 +21,12 @@
     <type fullname="HunterCardRevealPopup" preserve="all" />
     <type fullname="HunterCardView" preserve="all" />
     <type fullname="HunterDetailPopup" preserve="all" />
-    <type fullname="ItemCatalog" preserve="all" />
     <type fullname="LobbyHeader" preserve="all" />
     <type fullname="LobbyTabs" preserve="all" />
     <type fullname="MapPath" preserve="all" />
     <type fullname="MapZone" preserve="all" />
     <type fullname="Projectile" preserve="all" />
     <type fullname="ProjectileLauncher" preserve="all" />
-    <type fullname="ServerConfig" preserve="all" />
     <type fullname="SkillCatalog" preserve="all" />
     <type fullname="SkillSlotGroup" preserve="all" />
     <type fullname="SkillSlotItem" preserve="all" />
@@ -49,7 +47,6 @@
     <type fullname="GradeStyle/GradeColors" preserve="nothing" serialized="true" />
     <type fullname="HunterCardGachaGradeWeight" preserve="nothing" serialized="true" />
     <type fullname="HunterCardGachaPack" preserve="nothing" serialized="true" />
-    <type fullname="ItemEntry" preserve="nothing" serialized="true" />
     <type fullname="LevelUpCostRule" preserve="nothing" serialized="true" />
     <type fullname="LobbyTabs/Tab" preserve="nothing" serialized="true" />
     <type fullname="SkillEffectEntry" preserve="nothing" serialized="true" />
