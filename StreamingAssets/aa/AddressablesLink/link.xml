@@ -6,6 +6,7 @@
     <type fullname="BossSlimeData" preserve="all" />
     <type fullname="CurrencyView" preserve="all" />
     <type fullname="DamageTextView" preserve="all" />
+    <type fullname="EpicToonFX.ETFXRotation" preserve="all" />
     <type fullname="GameConfig" preserve="all" />
     <type fullname="GameMap" preserve="all" />
     <type fullname="GameResultPopup" preserve="all" />
