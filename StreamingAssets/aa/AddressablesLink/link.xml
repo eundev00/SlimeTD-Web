@@ -6,6 +6,7 @@
     <type fullname="BossSlimeData" preserve="all" />
     <type fullname="CurrencyView" preserve="all" />
     <type fullname="DamageTextView" preserve="all" />
+    <type fullname="EnergyTimerView" preserve="all" />
     <type fullname="EpicToonFX.ETFXRotation" preserve="all" />
     <type fullname="GameConfig" preserve="all" />
     <type fullname="GameMap" preserve="all" />
@@ -49,7 +50,6 @@
     <type fullname="TowerVfxAnchors" preserve="all" />
     <type fullname="WaveScrollView" preserve="all" />
     <type fullname="GradeStyle/GradeColors" preserve="nothing" serialized="true" />
-    <type fullname="HunterCardGachaGradeWeight" preserve="nothing" serialized="true" />
     <type fullname="HunterCardGachaPack" preserve="nothing" serialized="true" />
     <type fullname="ItemEntry" preserve="nothing" serialized="true" />
     <type fullname="LevelUpCostRule" preserve="nothing" serialized="true" />
