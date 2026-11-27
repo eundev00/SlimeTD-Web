@@ -15,6 +15,9 @@
     <type fullname="GradeStyle" preserve="all" />
     <type fullname="GridMapData" preserve="all" />
     <type fullname="GridMapReference" preserve="all" />
+    <type fullname="Hovl.HS_SwordMeshTrail" preserve="all" />
+    <type fullname="Hovl.HS_SwordTrailAnimationEvents" preserve="all" />
+    <type fullname="Hovl.HS_SwordTrailPreset" preserve="all" />
     <type fullname="HunterCard" preserve="all" />
     <type fullname="HunterCardGachaConfig" preserve="all" />
     <type fullname="HunterCardGachaPackView" preserve="all" />
@@ -28,6 +31,7 @@
     <type fullname="LobbyTabs" preserve="all" />
     <type fullname="MapPath" preserve="all" />
     <type fullname="MapZone" preserve="all" />
+    <type fullname="MessagePopup" preserve="all" />
     <type fullname="Projectile" preserve="all" />
     <type fullname="ProjectileLauncher" preserve="all" />
     <type fullname="RewardItemView" preserve="all" />
@@ -39,7 +43,6 @@
     <type fullname="SkillTooltipStageView" preserve="all" />
     <type fullname="SlimeAnimation" preserve="all" />
     <type fullname="SlimeData" preserve="all" />
-    <type fullname="SlimeDepthBucketSettings" preserve="all" />
     <type fullname="SortButton" preserve="all" />
     <type fullname="StageData" preserve="all" />
     <type fullname="TowerAnimationEventListener" preserve="all" />
@@ -50,6 +53,7 @@
     <type fullname="TowerVfxAnchors" preserve="all" />
     <type fullname="WaveScrollView" preserve="all" />
     <type fullname="GradeStyle/GradeColors" preserve="nothing" serialized="true" />
+    <type fullname="Hovl.HS_SwordTrailPreset/MaterialLayer" preserve="nothing" serialized="true" />
     <type fullname="HunterCardGachaPack" preserve="nothing" serialized="true" />
     <type fullname="ItemEntry" preserve="nothing" serialized="true" />
     <type fullname="LevelUpCostRule" preserve="nothing" serialized="true" />
