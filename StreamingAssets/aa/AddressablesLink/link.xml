@@ -39,6 +39,7 @@
     <type fullname="SkillTooltipStageView" preserve="all" />
     <type fullname="SlimeAnimation" preserve="all" />
     <type fullname="SlimeData" preserve="all" />
+    <type fullname="SlimeDepthBucketSettings" preserve="all" />
     <type fullname="SortButton" preserve="all" />
     <type fullname="StageData" preserve="all" />
     <type fullname="TowerAnimationEventListener" preserve="all" />
